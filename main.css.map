@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/hugo-timeline-test/hugo-timeline-test",
+	"sourceRoot": "/home/runner/work/hugo-timeline-example/hugo-timeline-example",
 	"sources": [
 		"themes/timeline/assets/scss/main.scss",
 		"themes/timeline/assets/scss/_normalize.scss",
