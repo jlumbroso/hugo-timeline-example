@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://jlumbroso.github.io/hugo-timeline-example/"
 title   = "Timeline"
 languageCode = "en-us"
 theme = "timeline"
